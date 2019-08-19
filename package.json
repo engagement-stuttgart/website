@@ -1,0 +1,25 @@
+{
+  "name": "website",
+  "version": "1.0.0",
+  "description": "Prototypwebsite für Engagement Stuttgart",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "start": "vuepress dev site",
+    "build": "vuepress build site"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/engagement-stuttgart/website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/engagement-stuttgart/website/issues"
+  },
+  "homepage": "https://github.com/engagement-stuttgart/website#readme",
+  "dependencies": {
+    "netlify-cms": "^2.9.7",
+    "vuepress": "^1.0.3"
+  }
+}
