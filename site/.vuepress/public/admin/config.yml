@@ -1,3 +1,4 @@
+site_url: http://engagement-stuttgart.de
 backend:
   name: git-gateway
   branch: master # Branch to update (optional; defaults to master)
