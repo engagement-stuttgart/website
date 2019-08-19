@@ -1,6 +1,6 @@
 backend:
   name: github
-  branch: engagement-stuttgart/website
+  repo: engagement-stuttgart/website
 publish_mode: editorial_workflow
 media_folder: "images/uploads"
 collections:
