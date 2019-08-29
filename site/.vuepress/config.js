@@ -1,5 +1,5 @@
 module.exports = {
 	plugins: [
-		'clean-urls',
+		// 'clean-urls',
 	]
 }
