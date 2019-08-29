@@ -9,7 +9,8 @@
 	Page(v-else='', :sidebar-items='sidebarItems')
 		slot(name='page-top', slot='top')
 		slot(name='page-bottom', slot='bottom')
-	UnderConstruction
+	ClientOnly
+		UnderConstruction
 </template>
 
 <script>
