@@ -5,7 +5,7 @@
 			h1 {{ $page.frontmatter.hero.title }}
 			h2 {{ $page.frontmatter.hero.subtitle }}
 			p {{ $page.frontmatter.hero.description }}
-			a#btn-mitmachen(:href="$page.frontmatter.hero.link.url") $page.frontmatter.hero.link.text
+			a#btn-mitmachen(:href="$page.frontmatter.hero.link.url") {{ $page.frontmatter.hero.link.text }}
 		img(:src="$page.frontmatter.hero.image")
 	.highlights
 		.highlight(v-for="highlight of $page.frontmatter.highlights")
