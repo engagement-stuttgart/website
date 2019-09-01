@@ -1,49 +1,78 @@
 site_url: http://engagement-stuttgart.de
 backend:
-	name: git-gateway
-	branch: master # Branch to update (optional; defaults to master)
+  # name: test-repo
+  name: git-gateway
+  branch: master # Branch to update (optional; defaults to master)
 publish_mode: editorial_workflow
-media_folder: "site/images/uploads"
-public_folder: "images/uploads"
+media_folder: "site/.vuepress/public/images/"
+public_folder: "images/"
 collections:
-	- name: "pages"
-		label: "Pages"
-		files:
-			- file: "site/index.md"
-				label: "Landing Page"
-				name: "landing"
-				fields:
-					- {label: Title, name: title, widget: string}
-			- file: "site/projekt.md"
-				label: "Projekt"
-				name: "projekt"
-				fields:
-					- {label: Title, name: title, widget: string}
-			- file: "site/fortschritt.md"
-				label: "Fortschritt"
-				name: "fortschritt"
-				fields:
-					- {label: Title, name: title, widget: string}
-			- file: "site/impressum.md"
-				label: "Impressum"
-				name: "impressum"
-				fields:
-					- {label: Title, name: title, widget: string}
-			- file: "site/mitmachen.md"
-				label: "Mitmachen"
-				name: "mitmachen"
-				fields:
-					- {label: Title, name: title, widget: string}
-	- name: "post"
-		label: "Post"
-		folder: "site/posts"
-		create: true
-		slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-		preview_path: "posts/{{slug}}.html"
-		fields:
-			- {label: "Layout", name: "layout", widget: "hidden", default: "post"}
-			- {label: "Title", name: "title", widget: "string"}
-			- {label: "Publish Date", name: "date", widget: "datetime"}
-			- {label: "Featured Image", name: "thumbnail", widget: "image"}
-			- {label: "Rating (scale of 1-5)", name: "rating", widget: "number"}
-			- {label: "Body", name: "body", widget: "markdown"}
+  - name: "pages"
+    label: "Pages"
+    files:
+      - file: "site/index.md"
+        label: "Landing Page"
+        name: "landing-page"
+        fields:
+          - {label: "Body", name: "body", widget: "hidden", default: "<LandingPage/>"}
+          - label: Hero
+            name: hero
+            widget: object
+            fields:
+              - {label: "Title", name: "title", widget: "string"}
+              - {label: "Subtitle", name: "subtitle", widget: "string"}
+              - {label: "Description", name: "description", widget: "string"}
+              - {label: "Image", name: "image", widget: "image"}
+              - label: Link
+                name: link
+                widget: object
+                fields:
+                  - {label: "Text", name: "text", widget: "string"}
+                  - {label: "Url", name: "url", widget: "string"}
+          - label: Highlights
+            name: highlights
+            widget: list
+            fields:
+              - {label: "Title", name: "title", widget: "string"}
+              - {label: "Subtitle", name: "subtitle", widget: "string"}
+              - {label: "Description", name: "description", widget: "string"}
+              - {label: "Image", name: "image", widget: "image"}
+              - label: Link
+                name: link
+                widget: object
+                fields:
+                  - {label: "Text", name: "text", widget: "string"}#
+                  - {label: "Url", name: "url", widget: "string"}
+      - file: "site/projekt.md"
+        label: "Projekt"
+        name: "projekt"
+        fields:
+          - {label: Title, name: title, widget: string}
+      - file: "site/fortschritt.md"
+        label: "Fortschritt"
+        name: "fortschritt"
+        fields:
+          - {label: Title, name: title, widget: string}
+      - file: "site/impressum.md"
+        label: "Impressum"
+        name: "impressum"
+        fields:
+          - {label: Title, name: title, widget: string}
+      - file: "site/mitmachen.md"
+        label: "Mitmachen"
+        name: "mitmachen"
+        fields:
+          - {label: Title, name: title, widget: string}
+  - name: "posts"
+    label: "Posts"
+    folder: "site/posts"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    preview_path: "posts/{{slug}}.html"
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Featured Image", name: "thumbnail", widget: "image"}
+      - {label: "Rating (scale of 1-5)", name: "rating", widget: "number"}
+      - {label: "Body", name: "body", widget: "markdown"}
