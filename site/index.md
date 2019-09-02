@@ -21,8 +21,11 @@ highlights:
       text: mehr lernen
       url: /prozess
 sponsors:
-  - image: /images/fake-sponsor.svg
-  - image: /images/fake-sponsor.svg
-  - image: /images/fake-sponsor.svg
+  - image: /images/fake-sponsor-1.jpg
+    link: https://fake.fake
+    title: Fake Förderer 1
+  - image: /images/fake-sponsor-2.jpg
+    link: https://fake.fake
+    title: Fake Förderer 2
 ---
 <LandingPage/>

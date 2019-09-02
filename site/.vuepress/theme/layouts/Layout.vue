@@ -9,6 +9,7 @@
 	Page(v-else='', :sidebar-items='sidebarItems')
 		slot(name='page-top', slot='top')
 		slot(name='page-bottom', slot='bottom')
+	Footer
 	ClientOnly
 		UnderConstruction
 </template>
@@ -18,11 +19,12 @@ import Home from '@theme/components/Home.vue'
 import Navbar from '@theme/components/Navbar.vue'
 import Page from '@theme/components/Page.vue'
 import Sidebar from '@theme/components/Sidebar.vue'
+import Footer from '@theme/components/Footer.vue'
 import UnderConstruction from '@theme/components/UnderConstruction.vue'
 import { resolveSidebarItems } from '../util'
 
 export default {
-	components: { Home, Page, Sidebar, Navbar, UnderConstruction },
+	components: { Home, Page, Sidebar, Navbar, Footer, UnderConstruction },
 
 	data () {
 		return {

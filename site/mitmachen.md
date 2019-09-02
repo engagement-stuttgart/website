@@ -1,3 +1,4 @@
 ---
 title: Mitmachen
 ---
+<ContributePage />

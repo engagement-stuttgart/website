@@ -1,5 +1,4 @@
 ---
 title: Projekt
 ---
-
-# Projekt!
+<ProjectPage />

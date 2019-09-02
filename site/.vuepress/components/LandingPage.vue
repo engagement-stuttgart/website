@@ -15,6 +15,10 @@
 				p {{ highlight.description }}
 				a#btn-mitmachen(:href="highlight.link.url") {{ highlight.link.text }}
 			img(:src="highlight.image")
+	h2 Förderer
+	.sponsors
+		a.sponsor(v-for="sponsor of $page.frontmatter.sponsors", :href="sponsor.link", :title="sponsor.title")
+			img(:src="sponsor.image")
 </template>
 <script>
 export default {
@@ -61,6 +65,8 @@ export default {
 	.highlight
 		display: flex
 		margin: 32px 0
+		.text
+			padding-top: 32px
 		h2
 			border: none
 		img
@@ -71,4 +77,14 @@ export default {
 			flex-direction: row-reverse
 			img
 				margin: 32px 32px 0 0
+	> h2
+		border-bottom: 0
+		text-align: center
+		font-size: 48px
+	.sponsors
+		display: flex
+		.sponsor
+			margin: 0 auto
+			img
+				max-height: 200px
 </style>

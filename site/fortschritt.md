@@ -1,3 +1,4 @@
 ---
 title: Fortschritt
 ---
+<ProgressPage />
