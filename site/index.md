@@ -19,7 +19,7 @@ highlights:
     image: /images/process.svg
     link:
       text: mehr lernen
-      url: /prozess
+      url: /fortschritt
 sponsors:
   - image: /images/fake-sponsor-1.jpg
     link: https://fake.fake

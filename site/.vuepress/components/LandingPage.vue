@@ -1,5 +1,5 @@
 <template lang="pug">
-.c-home
+.page-landing
 	.hero
 		.text
 			h1 {{ $page.frontmatter.hero.title }}
@@ -37,7 +37,7 @@ export default {
 }
 </script>
 <style lang="stylus">
-.c-home
+.page-landing
 	.hero
 		display: flex
 		margin-bottom: 64px
