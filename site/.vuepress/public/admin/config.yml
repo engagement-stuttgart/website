@@ -55,19 +55,46 @@ collections:
         name: "projekt"
         fields:
           - {label: Title, name: title, widget: string}
+          - {label: "Body", name: "body", widget: "hidden", default: "<ProjectPage/>"}
+          - label: Hero
+            name: hero
+            widget: object
+            fields:
+              - {label: "Title", name: "title", widget: "string"}
+              - {label: "Subtitle", name: "subtitle", widget: "string"}
+              - {label: "Description", name: "description", widget: "string"}
+              - {label: "Image", name: "image", widget: "image"}
       - file: "site/fortschritt.md"
         label: "Fortschritt"
         name: "fortschritt"
         fields:
           - {label: Title, name: title, widget: string}
-      - file: "site/impressum.md"
-        label: "Impressum"
-        name: "impressum"
-        fields:
-          - {label: Title, name: title, widget: string}
+          - {label: "Body", name: "body", widget: "hidden", default: "<ProgressPage/>"}
+          - label: Hero
+            name: hero
+            widget: object
+            fields:
+              - {label: "Title", name: "title", widget: "string"}
+              - {label: "Subtitle", name: "subtitle", widget: "string"}
+              - {label: "Description", name: "description", widget: "string"}
+              - {label: "Image", name: "image", widget: "image"}
       - file: "site/mitmachen.md"
         label: "Mitmachen"
         name: "mitmachen"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: "Body", name: "body", widget: "hidden", default: "<ContributePage/>"}
+          - label: Hero
+            name: hero
+            widget: object
+            fields:
+              - {label: "Title", name: "title", widget: "string"}
+              - {label: "Subtitle", name: "subtitle", widget: "string"}
+              - {label: "Description", name: "description", widget: "string"}
+              - {label: "Image", name: "image", widget: "image"}
+      - file: "site/impressum.md"
+        label: "Impressum"
+        name: "impressum"
         fields:
           - {label: Title, name: title, widget: string}
   - name: "posts"
