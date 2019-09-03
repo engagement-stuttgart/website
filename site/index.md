@@ -27,5 +27,13 @@ sponsors:
   - image: /images/fake-sponsor-2.jpg
     link: https://fake.fake
     title: Fake Förderer 2
+callToAction:
+  title: Mach Mit!
+  subtitle: oder so
+  description: Engagierte Menschen brauchen Räume für Begegnungen, Gestaltung, für Inspiration, Kooperation und Vernetzung – analog und digital. Dann können sie die Welt bewegen und für einen funktionierenden gesellschaftlichen Zusammenhalt sorgen.
+  image: /images/hero.svg
+  link:
+    text: Mitmachen
+    url: /mitmachen
 ---
 <LandingPage/>

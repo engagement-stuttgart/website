@@ -19,6 +19,13 @@
 	.sponsors
 		a.sponsor(v-for="sponsor of $page.frontmatter.sponsors", :href="sponsor.link", :title="sponsor.title")
 			img(:src="sponsor.image")
+	.call-to-action
+		.text
+			h1 {{ $page.frontmatter.callToAction.title }}
+			h2 {{ $page.frontmatter.callToAction.subtitle }}
+			p {{ $page.frontmatter.callToAction.description }}
+			a#btn-mitmachen(:href="$page.frontmatter.callToAction.link.url") {{ $page.frontmatter.callToAction.link.text }}
+		img(:src="$page.frontmatter.callToAction.image")
 </template>
 <script>
 export default {
@@ -38,7 +45,7 @@ export default {
 </script>
 <style lang="stylus">
 .page-landing
-	.hero
+	.hero, .call-to-action
 		display: flex
 		margin-bottom: 64px
 		h2
@@ -83,6 +90,7 @@ export default {
 		font-size: 48px
 	.sponsors
 		display: flex
+		margin-bottom: 64px
 		.sponsor
 			margin: 0 auto
 			img
