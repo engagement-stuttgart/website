@@ -50,6 +50,20 @@ collections:
               - {label: "Title", name: "title", widget: "string"}
               - {label: "Image", name: "image", widget: "image"}
               - {label: "Link", name: "link", widget: "string"}
+          - label: Call To Action
+            name: callToAction
+            widget: object
+            fields:
+              - {label: "Title", name: "title", widget: "string"}
+              - {label: "Subtitle", name: "subtitle", widget: "string"}
+              - {label: "Description", name: "description", widget: "string"}
+              - {label: "Image", name: "image", widget: "image"}
+              - label: Link
+                name: link
+                widget: object
+                fields:
+                  - {label: "Text", name: "text", widget: "string"}
+                  - {label: "Url", name: "url", widget: "string"}
       - file: "site/projekt.md"
         label: "Projekt"
         name: "projekt"
@@ -62,6 +76,26 @@ collections:
             fields:
               - {label: "Title", name: "title", widget: "string"}
               - {label: "Subtitle", name: "subtitle", widget: "string"}
+              - {label: "Description", name: "description", widget: "string"}
+              - {label: "Image", name: "image", widget: "image"}
+          - label: Ziele
+            name: goals
+            widget: list
+            fields:
+              - {label: "Title", name: "title", widget: "string"}
+              - {label: "Description", name: "description", widget: "string"}
+              - {label: "Image", name: "image", widget: "image"}
+          - label: Struktur
+            name: structure
+            widget: object
+            fields:
+              - {label: "Title", name: "title", widget: "string"}
+              - {label: "Description", name: "description", widget: "string"}
+          - label: Strukturen
+            name: structures
+            widget: list
+            fields:
+              - {label: "Title", name: "title", widget: "string"}
               - {label: "Description", name: "description", widget: "string"}
               - {label: "Image", name: "image", widget: "image"}
       - file: "site/fortschritt.md"

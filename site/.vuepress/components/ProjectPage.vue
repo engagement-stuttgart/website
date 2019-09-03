@@ -6,6 +6,21 @@
 			h2 {{ $page.frontmatter.hero.subtitle }}
 			p {{ $page.frontmatter.hero.description }}
 		img(:src="$page.frontmatter.hero.image")
+	h2 Ziele
+	.goals
+		.goal(v-for="goal of $page.frontmatter.goals")
+			img(:src="goal.image")
+			.text
+				h3 {{ goal.title }}
+				p {{ goal.description }}
+	h2 {{ $page.frontmatter.structure.title }}
+	p {{ $page.frontmatter.structure.description }}
+	.structures
+		.structure(v-for="structure of $page.frontmatter.structures")
+			img(:src="structure.image")
+			.text
+				h3 {{ structure.title }}
+				p {{ structure.description }}
 </template>
 <script>
 export default {
@@ -35,4 +50,34 @@ export default {
 			margin: 32px 0 0 32px
 			flex: none
 			height: 300px
+	> h2
+		border: none
+	.goal
+		display: flex
+		margin: 32px 0
+		.text
+			padding-top: 32px
+			align-self: center
+		h2
+			border: none
+		img
+			margin: 32px
+			flex: none
+			height: 200px
+		&:nth-child(odd)
+			flex-direction: row-reverse
+	.structures
+		display: flex
+		.structure
+			display: flex
+			flex-direction: column
+			margin: 0 32px
+			.text
+				padding-top: 32px
+			h2
+				border: none
+			img
+				margin: 32px 0 0 32px
+				flex: none
+				height: 200px
 </style>
