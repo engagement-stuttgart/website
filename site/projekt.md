@@ -29,8 +29,10 @@ goals:
     image: /images/project.svg
     title: Aquise
 structure:
-  description: Wir haben Struktur!
-  title: Struktur
+  description: >-
+    Die Neukonzeption zur Förderung des Bürgerschaftlichen Engagements
+    orientiert sich dabei an den drei Formaten: zentral, dezentral und digital
+  title: Format
 structures:
   - description: >-
       Es soll ein „Haus für die Förderung des Bürgerengagements" in zentraler
