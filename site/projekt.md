@@ -23,9 +23,11 @@ goals:
       Inklusionsanspruches für die ganze Stadtgesellschaft öffnen
     image: /images/project.svg
     title: Empowerment und Inklusion
-  - description: 'Irgendwas Irgendwas ein wichtiges Ziel, das wir voll zielführend finden.'
+  - description: >-
+      die Engagementgewinnung und -weiterentwicklung sowie den Erhalt
+      bestehender Engagementangebote zu fördern
     image: /images/project.svg
-    title: Ziel 3
+    title: Aquise
 structure:
   description: Wir haben Struktur!
   title: Struktur
