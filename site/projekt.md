@@ -1,31 +1,40 @@
 ---
+title: xxx
 hero:
-  title: Projekt
-  subtitle: subtitle
-  description: Engagierte Menschen brauchen Räume für Begegnungen, Gestaltung, für Inspiration, Kooperation und Vernetzung – analog und digital. Dann können sie die Welt bewegen und für einen funktionierenden gesellschaftlichen Zusammenhalt sorgen.
+  description: >-
+    Die Stuttgarter Engagement-Landschaft ist zerstückelt. Zwar gibt es junges
+    Engagement (z. B. die „Stadtlücken“), Engagement im kirchlichen Bereich
+    (Caritas, Diakonie), von der Stadt koordiniertes Engagement
+    (Freiwilligenagentur) und Engagement in der Flüchtlingshilfe (Sozialamt),
+    doch fehlt dabei eins: der gemeinsame Nenner. Den will der Arbeitskreis BE
+    Strategie jetzt auf den Weg bringen. Es soll ein Haus des Bürgerschaftlichen
+    Engagements geben, das das Engagement stärken und bei der Weiterentwicklung
+    desselben helfen soll. 
   image: /images/hero.svg
+  subtitle: ' '
+  title: Projektbeschreibung
 goals:
-  - title: Ziel 1
-    description: Irgendwas Irgendwas ein wichtiges Ziel, das wir voll zielführend finden.
+  - description: 'Irgendwas Irgendwas ein wichtiges Ziel, das wir voll zielführend finden.'
     image: /images/project.svg
-  - title: Ziel 2
-    description: Irgendwas Irgendwas ein wichtiges Ziel, das wir voll zielführend finden.
+    title: Ziel 1
+  - description: 'Irgendwas Irgendwas ein wichtiges Ziel, das wir voll zielführend finden.'
     image: /images/project.svg
-  - title: Ziel 3
-    description: Irgendwas Irgendwas ein wichtiges Ziel, das wir voll zielführend finden.
+    title: Ziel 2
+  - description: 'Irgendwas Irgendwas ein wichtiges Ziel, das wir voll zielführend finden.'
     image: /images/project.svg
+    title: Ziel 3
 structure:
-  title: Struktur
   description: Wir haben Struktur!
+  title: Struktur
 structures:
-  - title: Zentral
-    description: Irgendwas Irgendwas ein wichtiges Ziel, das wir voll zielführend finden.
+  - description: 'Irgendwas Irgendwas ein wichtiges Ziel, das wir voll zielführend finden.'
     image: /images/project.svg
-  - title: Dezentral
-    description: Irgendwas Irgendwas ein wichtiges Ziel, das wir voll zielführend finden.
+    title: Zentral
+  - description: 'Irgendwas Irgendwas ein wichtiges Ziel, das wir voll zielführend finden.'
     image: /images/project.svg
-  - title: Digital
-    description: Irgendwas Irgendwas ein wichtiges Ziel, das wir voll zielführend finden.
+    title: Dezentral
+  - description: 'Irgendwas Irgendwas ein wichtiges Ziel, das wir voll zielführend finden.'
     image: /images/project.svg
+    title: Digital
 ---
 <ProjectPage />
