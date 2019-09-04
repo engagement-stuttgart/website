@@ -17,12 +17,12 @@ goals:
       die Bereitstellung von zukunftsorientierten Ermöglichungs- und
       Beteiligungsstrukturen.
     image: /images/project.svg
-    title: Ziel 1
+    title: Beteiligung
   - description: >-
       das Bürgerschaftliche Engagement im Sinne des Empowerment-Ansatzes und des
       Inklusionsanspruches für die ganze Stadtgesellschaft öffnen
     image: /images/project.svg
-    title: Ziel 2
+    title: Empowerment und Inklusion
   - description: 'Irgendwas Irgendwas ein wichtiges Ziel, das wir voll zielführend finden.'
     image: /images/project.svg
     title: Ziel 3
