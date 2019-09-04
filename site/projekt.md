@@ -3,9 +3,10 @@ title: xxx
 hero:
   description: >-
     Im Rahmen einer neuen strategischen Zielausrichtung des Bürgerschaftlichen
-    Engage ments werden bereits seit drei Jahren die Aufgabenbereiche zwischen
+    Engagements werden bereits seit drei Jahren die Aufgabenbereiche zwischen
     dem Haupt- und Personalamt, dem Sozialamt, den übrigen Fachverwaltungen
-    sowie mit den 
+    sowie mit den zivilgesellschaftlichen Organisationen und Unternehmen enger
+    aufeinander abgestimmt.
   image: /images/hero.svg
   subtitle: ' '
   title: Projektbeschreibung
