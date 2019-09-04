@@ -13,7 +13,9 @@ hero:
   subtitle: ' '
   title: Projektbeschreibung
 goals:
-  - description: 'Irgendwas Irgendwas ein wichtiges Ziel, das wir voll zielführend finden.'
+  - description: >-
+      die Bereitstellung von zukunftsorientierten Ermöglichungs- und
+      Beteiligungsstrukturen.
     image: /images/project.svg
     title: Ziel 1
   - description: 'Irgendwas Irgendwas ein wichtiges Ziel, das wir voll zielführend finden.'
