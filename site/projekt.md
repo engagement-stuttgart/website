@@ -32,7 +32,10 @@ structure:
   description: Wir haben Struktur!
   title: Struktur
 structures:
-  - description: 'Irgendwas Irgendwas ein wichtiges Ziel, das wir voll zielführend finden.'
+  - description: >-
+      Es soll ein „Haus für die Förderung des Bürgerengagements" in zentraler
+      Lage in Stuttgart realisiert werden. In diesem Zentrum findet die
+      Weiterentwicklung des Bürgerschaftlichen Engagements statt.
     image: /images/project.svg
     title: Zentral
   - description: 'Irgendwas Irgendwas ein wichtiges Ziel, das wir voll zielführend finden.'
