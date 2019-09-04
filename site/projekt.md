@@ -38,10 +38,18 @@ structures:
       Weiterentwicklung des Bürgerschaftlichen Engagements statt.
     image: /images/project.svg
     title: Zentral
-  - description: 'Irgendwas Irgendwas ein wichtiges Ziel, das wir voll zielführend finden.'
+  - description: >-
+      Beim dezentralen Ansatz sollen die Stadtbezirke involviert und dort
+      vorhandenes Engagement sichtbar gemacht werden.  Das dezentrale Format
+      nimmt die Anforderungen der Stadtbezirke und Quartiere in den Fokus.
     image: /images/project.svg
     title: Dezentral
-  - description: 'Irgendwas Irgendwas ein wichtiges Ziel, das wir voll zielführend finden.'
+  - description: >-
+      Das digitale Format bündelt bestehende digitale Angebote (Internetangebot,
+      elektronische Vermittlungsplattform) und entwickelt diese weiter. Neu
+      konzipiert werden digitale Angebote des Projektmanagements, der
+      Beteiligung, Vernetzung und Kooperation. Das digitale Format
+      berücksichtigt dabei zentrale und dezentrale Anforderungen. 
     image: /images/project.svg
     title: Digital
 ---
