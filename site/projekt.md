@@ -6,7 +6,9 @@ hero:
     Engagements werden bereits seit drei Jahren die Aufgabenbereiche zwischen
     dem Haupt- und Personalamt, dem Sozialamt, den übrigen Fachverwaltungen
     sowie mit den zivilgesellschaftlichen Organisationen und Unternehmen enger
-    aufeinander abgestimmt.
+    aufeinander abgestimmt. Es soll Orte des Bürgerschaftlichen Engagements
+    geben, die das Engagement stärken und bei der Weiterentwicklung desselben
+    helfen sollen.
   image: /images/hero.svg
   subtitle: ' '
   title: Projektbeschreibung
