@@ -18,7 +18,9 @@ goals:
       Beteiligungsstrukturen.
     image: /images/project.svg
     title: Ziel 1
-  - description: 'Irgendwas Irgendwas ein wichtiges Ziel, das wir voll zielführend finden.'
+  - description: >-
+      das Bürgerschaftliche Engagement im Sinne des Empowerment-Ansatzes und des
+      Inklusionsanspruches für die ganze Stadtgesellschaft öffnen
     image: /images/project.svg
     title: Ziel 2
   - description: 'Irgendwas Irgendwas ein wichtiges Ziel, das wir voll zielführend finden.'
