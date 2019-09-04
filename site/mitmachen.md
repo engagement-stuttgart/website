@@ -11,7 +11,7 @@ hero:
     etc.), AG Räume  (Experimentierort, dezentrale Räume, Tournee, etc.) -->
     Anmeldung zu den Arbeitsgruppen unter  buergerengagement@stuttgart.de
   image: /images/hero.svg
-  subtitle: Untertitel
+  subtitle: ' '
   title: Mitmachen
 ---
 <ContributePage />
