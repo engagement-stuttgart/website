@@ -27,7 +27,7 @@ hero:
   title: Projektbeschreibung
 goals:
   - description: >-
-      Die Bereitstellung von zukunftsorientierten Ermöglichungs- und
+      Bereitstellung von zukunftsorientierten Ermöglichungs- und
       Beteiligungsstrukturen. Sicherstellung der Beteiligungsorientierung und
       Transparenz im Engagement. Digitalisierung nutzen, um Zugangs- und
       Beteiligungsoptionen weiterzuentwickeln. 
