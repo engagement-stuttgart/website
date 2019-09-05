@@ -40,6 +40,9 @@ sponsors:
   - image: /images/fake-sponsor-2.jpg
     link: 'https://fake.fake'
     title: Fake Förderer 2
+  - image: /images/fake-sponsor-1.jpg
+    link: 'https://fake.fake'
+    title: Fake Förderer 3
 callToAction:
   description: >-
     Engagierte Menschen brauchen Räume für Begegnungen, Gestaltung, für
