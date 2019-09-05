@@ -22,7 +22,7 @@ hero:
     Unternehmen enger aufeinander abgestimmt. Gemeinsam sollen Orte und Formate
     des Bürgerschaftlichen Engagements konzipiert und umgesetzt werden, die das
     Engagement stärken und bei der Weiterentwicklung desselben helfen sollen.
-  image: /images/1.jpg
+  image: /images/gr_stuttgart_hauptundpersonalamt_3_72.jpg
   subtitle: ' '
   title: Projektbeschreibung
 goals:
@@ -31,13 +31,13 @@ goals:
       Beteiligungsstrukturen. Sicherstellung der Beteiligungsorientierung und
       Transparenz im Engagement. Digitalisierung nutzen, um Zugangs- und
       Beteiligungsoptionen weiterzuentwickeln. 
-    image: /images/project.svg
+    image: /images/1.jpg
     title: Beteiligung und Transparenz
   - description: >-
       Das Bürgerschaftliche Engagement in Stuttgart im Sinne des
       Empowerment-Ansatzes und des Inklusionsanspruches für die ganze
       Stadtgesellschaft öffnen
-    image: /images/konzept-engagement-und-beteiligung_organigramm.jpg
+    image: /images/2019-02-22-12.03.43.jpg
     title: Empowerment und Inklusion
   - description: >-
       Die Engagementgewinnung und -weiterentwicklung sowie den Erhalt
