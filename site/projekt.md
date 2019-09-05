@@ -71,7 +71,7 @@ structures:
       digitale Angebote des Projektmanagements, der Beteiligung, Vernetzung und
       Kooperation. Das digitale Format berücksichtigt dabei zentrale und
       dezentrale Anforderungen. 
-    image: /images/project.svg
+    image: /images/konzept-engagement-und-beteiligung_organigramm.jpg
     title: Digital
 ---
 <ProjectPage />
