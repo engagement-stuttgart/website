@@ -22,7 +22,7 @@ hero:
     Unternehmen enger aufeinander abgestimmt. Gemeinsam sollen Orte und Formate
     des Bürgerschaftlichen Engagements konzipiert und umgesetzt werden, die das
     Engagement stärken und bei der Weiterentwicklung desselben helfen sollen.
-  image: /images/hero.svg
+  image: /images/1.jpg
   subtitle: ' '
   title: Projektbeschreibung
 goals:
