@@ -62,15 +62,14 @@ structures:
     image: /images/haus.jpg
     title: Zentral
   - description: >-
-      Beim dezentralen Ansatz sollen die Stadtbezirke involviert und dort
-      vorhandenes Engagement sichtbar gemacht werden.  Das dezentrale Format
-      nimmt die Anforderungen der Stadtbezirke und Quartiere in den Fokus. Das
-      Engagement und die Engagementförderung erfolgt hier in
-      Beziehungsstrukturen nah und persönlich an den Menschen und Gruppen mit
-      deren persönlichen und sozia-len Ausgangslagen. Wichtige Funktionen der
-      Engagementförderung wie z.B. die Ge-winnung, Begleitung, Vernetzung und
-      Anerkennung erfolgen in der Praxis der dezent-ralen Einheiten. Hier wird
-      die Beratung zur Umsetzung gemeinsamer Standards aktiv. 
+      Das dezentrale Format nimmt die Anforderungen der Stadtbezirke und
+      Quartiere in den Fokus. Das Engagement und die Engagementförderung erfolgt
+      hier in Beziehungsstrukturen nah und persönlich an den Menschen und
+      Gruppen mit deren persönlichen und sozia-len Ausgangslagen. Wichtige
+      Funktionen der Engagementförderung wie z.B. die Ge-winnung, Begleitung,
+      Vernetzung und Anerkennung erfolgen in der Praxis der dezent-ralen
+      Einheiten. Hier wird die Beratung zur Umsetzung gemeinsamer Standards
+      aktiv. 
     image: /images/dsc09077-kopie.jpg
     title: Dezentral
   - description: >-
