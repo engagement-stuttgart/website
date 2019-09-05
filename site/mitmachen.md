@@ -10,7 +10,7 @@ hero:
     (CI/CD, Kampagnen, etc.), AG Räume (Experimentierort, dezentrale Räume,
     Tournee der guten Orte, etc.). Anmeldung zu den Arbeitsgruppen unter
     buergerengagement@stuttgart.de
-  image: /images/arbeitsgruppen.png
+  image: /images/workshops.png
   subtitle: ' Lassen Sie uns eine gemeinsame BE-Strategie für unsere Stadt entwickeln.'
   title: Mitmachen
 ---
