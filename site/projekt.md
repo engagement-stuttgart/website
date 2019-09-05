@@ -14,20 +14,21 @@ hero:
   title: Projektbeschreibung
 goals:
   - description: >-
-      die Bereitstellung von zukunftsorientierten Ermöglichungs- und
+      Die Bereitstellung von zukunftsorientierten Ermöglichungs- und
       Beteiligungsstrukturen.
     image: /images/project.svg
-    title: Beteiligung
+    title: Beteiligung und Transparenz
   - description: >-
-      das Bürgerschaftliche Engagement im Sinne des Empowerment-Ansatzes und des
-      Inklusionsanspruches für die ganze Stadtgesellschaft öffnen
+      Das Bürgerschaftliche Engagement in Stuttgart im Sinne des
+      Empowerment-Ansatzes und des Inklusionsanspruches für die ganze
+      Stadtgesellschaft öffnen
     image: /images/project.svg
     title: Empowerment und Inklusion
   - description: >-
-      die Engagementgewinnung und -weiterentwicklung sowie den Erhalt
+      Die Engagementgewinnung und -weiterentwicklung sowie den Erhalt
       bestehender Engagementangebote zu fördern
     image: /images/project.svg
-    title: Aquise
+    title: Aquise und Anerkennung
 structure:
   description: >-
     Die Neukonzeption zur Förderung des Bürgerschaftlichen Engagements
