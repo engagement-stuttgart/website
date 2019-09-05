@@ -76,7 +76,8 @@ structures:
       Vermittlungsplattform) und entwickelt diese weiter. Neu konzipiert werden
       digitale Angebote des Projektmanagements, der Beteiligung, Vernetzung und
       Kooperation. Das digitale Format berücksichtigt dabei zentrale und
-      dezentrale Anforderungen. 
+      dezentrale Anforderungen. Hierbei soll auch auf das Engagement und Know
+      How von Non-profit-Gruppen und Unternehmen zurückgegriffen werden. 
     image: /images/konzept-engagement-und-beteiligung_organigramm.jpg
     title: Digital
 ---
