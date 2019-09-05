@@ -4,11 +4,10 @@ hero:
   description: >-
     Im Rahmen einer neuen strategischen Zielausrichtung des Bürgerschaftlichen
     Engagements werden bereits seit drei Jahren die Aufgabenbereiche zwischen
-    dem Haupt- und Personalamt, dem Sozialamt, den übrigen Fachverwaltungen
-    sowie mit den zivilgesellschaftlichen Organisationen und Unternehmen enger
-    aufeinander abgestimmt. Es soll Orte des Bürgerschaftlichen Engagements
-    geben, die das Engagement stärken und bei der Weiterentwicklung desselben
-    helfen sollen.
+    der Stadt Stuttgart und  zivilgesellschaftlichen Organisationen und
+    Unternehmen enger aufeinander abgestimmt. Gemeinsam sollen Orte des
+    Bürgerschaftlichen Engagements konzipiert und umgesetzt werden, die das
+    Engagement stärken und bei der Weiterentwicklung desselben helfen sollen.
   image: /images/hero.svg
   subtitle: ' '
   title: Projektbeschreibung
