@@ -45,10 +45,9 @@ sponsors:
     title: Fake Förderer 3
 callToAction:
   description: >-
-    Engagierte Menschen brauchen Räume für Begegnungen, Gestaltung, für
-    Inspiration, Kooperation und Vernetzung – analog und digital. Dann können
-    sie die Welt bewegen und für einen funktionierenden gesellschaftlichen
-    Zusammenhalt sorgen.
+    Einzigartig am an diesem Prozess ist die Zusammenarbeit von
+    Zivilgesellschaft, Unternehmen und Verwaltung. Alle Akteure finden sich hier
+    zusammen, lernen voneinander und setzen gemeinsame Konzepte um.
   image: /images/hero.svg
   link:
     text: Mitmachen
