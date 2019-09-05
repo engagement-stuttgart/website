@@ -27,7 +27,7 @@ hero:
   title: Projektbeschreibung
 goals:
   - description: >-
-      Die Bereitstellung von zukunftsorientierten Ermöglichungs- und
+      Bereitstellung von zukunftsorientierten Ermöglichungs- und
       Beteiligungsstrukturen. Sicherstellung der Beteiligungsorientierung und
       Transparenz im Engagement. Digitalisierung nutzen, um Zugangs- und
       Beteiligungsoptionen weiterzuentwickeln. 
@@ -57,21 +57,21 @@ structures:
       Es soll ein „Haus für die Förderung des Bürgerengagements" in zentraler
       Lage in Stuttgart realisiert werden. In diesem Zentrum findet die
       Weiterentwicklung des Bürgerschaftlichen Engagements statt.
-    image: /images/project.svg
+    image: /images/haus.jpg
     title: Zentral
   - description: >-
       Beim dezentralen Ansatz sollen die Stadtbezirke involviert und dort
       vorhandenes Engagement sichtbar gemacht werden.  Das dezentrale Format
       nimmt die Anforderungen der Stadtbezirke und Quartiere in den Fokus.
-    image: /images/project.svg
+    image: /images/dsc09077-kopie.jpg
     title: Dezentral
   - description: >-
       Das digitale Format bündelt bestehende digitale Angebote (Internetangebot,
-      elektronische Vermittlungsplattform) und entwickelt diese weiter. Neu
-      konzipiert werden digitale Angebote des Projektmanagements, der
-      Beteiligung, Vernetzung und Kooperation. Das digitale Format
-      berücksichtigt dabei zentrale und dezentrale Anforderungen. 
-    image: /images/project.svg
+      Vermittlungsplattform) und entwickelt diese weiter. Neu konzipiert werden
+      digitale Angebote des Projektmanagements, der Beteiligung, Vernetzung und
+      Kooperation. Das digitale Format berücksichtigt dabei zentrale und
+      dezentrale Anforderungen. 
+    image: /images/konzept-engagement-und-beteiligung_organigramm.jpg
     title: Digital
 ---
 <ProjectPage />
