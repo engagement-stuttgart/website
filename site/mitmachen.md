@@ -8,8 +8,8 @@ hero:
     an folgenden thematischen Arbeitsgruppen mitwirken: AG Angebote (Beratung,
     Qualifizierung, etc.),  AG Digitales (Internetplattform,
     Vermittlungsplattform, etc.), AG Öffentlichkeitsarbeit (CI/CD, Kampagnen,
-    etc.), AG Räume  (Experimentierort, dezentrale Räume, Tournee, etc.) -->
-    Anmeldung zu den Arbeitsgruppen unter  buergerengagement@stuttgart.de
+    etc.), AG Räume  (Experimentierort, dezentrale Räume, Tournee, etc.).
+    Anmeldung zu den Arbeitsgruppen unter buergerengagement@stuttgart.de
   image: /images/arbeitsgruppen.png
   subtitle: ' '
   title: Mitmachen
