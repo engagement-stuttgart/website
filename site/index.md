@@ -47,7 +47,8 @@ callToAction:
   description: >-
     Einzigartig am an diesem Prozess ist die Zusammenarbeit von
     Zivilgesellschaft, Unternehmen und Verwaltung. Alle Akteure finden sich hier
-    zusammen, lernen voneinander und setzen gemeinsame Konzepte um.
+    zusammen, lernen voneinander und setzen gemeinsam Konzepte um. Werden Sie
+    Teil dieses stadtweiten Prozesses!
   image: /images/mitmachen.png
   link:
     text: Mitmachen
