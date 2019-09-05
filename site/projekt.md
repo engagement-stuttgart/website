@@ -19,7 +19,7 @@ hero:
     abgestimmt. Gemeinsam sollen Orte und Formate des Bürgerschaftlichen
     Engagements konzipiert und umgesetzt werden, die das Engagement stärken und
     bei der Weiterentwicklung desselben helfen.
-  image: /images/dsc08652.jpg
+  image: /images/process.svg
   subtitle: ' '
   title: Projektbeschreibung
 goals:
