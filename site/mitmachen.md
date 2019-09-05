@@ -2,7 +2,7 @@
 title: xxx
 hero:
   description: >-
-    Werden Sie Teil  des einmaligen stadtweiten Prozesses zur Stärkung des
+    Werden Sie Teil des einmaligen stadtweiten Prozesses zur Stärkung des
     Bürgerengagements. Lassen Sie uns eine gemeinsame BE-Strategie für unsere
     Stadt  entwickeln. Bringen Sie Ihre Ideen und Kompetenzen ein!  Sie können
     an folgenden thematischen Arbeitsgruppen mitwirken: AG Angebote (Beratung,
