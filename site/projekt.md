@@ -31,13 +31,13 @@ goals:
       Beteiligungsstrukturen. Sicherstellung der Beteiligungsorientierung und
       Transparenz im Engagement. Digitalisierung nutzen, um Zugangs- und
       Beteiligungsoptionen weiterzuentwickeln. 
-    image: /images/project.svg
+    image: /images/1.jpg
     title: Beteiligung und Transparenz
   - description: >-
       Das Bürgerschaftliche Engagement in Stuttgart im Sinne des
       Empowerment-Ansatzes und des Inklusionsanspruches für die ganze
       Stadtgesellschaft öffnen
-    image: /images/konzept-engagement-und-beteiligung_organigramm.jpg
+    image: /images/2019-02-22-12.03.43.jpg
     title: Empowerment und Inklusion
   - description: >-
       Die Engagementgewinnung und -weiterentwicklung sowie den Erhalt
