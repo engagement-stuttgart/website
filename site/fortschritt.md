@@ -26,7 +26,7 @@ hero:
     Beteiligungsmöglichkeiten von neu konzipierten Arbeitsgruppen, die allen
     Interessierten offenstehen (AG Angebote, AG Digitales, AG
     Öffentlichkeitsarbeit, AG Räume). 
-  image: /images/gr_stuttgart_hauptundpersonalamt_3_72.jpg
+  image: /images/workshops.png
   subtitle: ' '
   title: Ergebnisse
 ---
