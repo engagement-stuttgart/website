@@ -48,7 +48,7 @@ callToAction:
     Einzigartig am an diesem Prozess ist die Zusammenarbeit von
     Zivilgesellschaft, Unternehmen und Verwaltung. Alle Akteure finden sich hier
     zusammen, lernen voneinander und setzen gemeinsame Konzepte um.
-  image: /images/hero.svg
+  image: /images/mitmachen.png
   link:
     text: Mitmachen
     url: /mitmachen
