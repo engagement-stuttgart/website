@@ -53,7 +53,7 @@ callToAction:
   link:
     text: Mitmachen
     url: /mitmachen
-  subtitle: oder so
-  title: Mach Mit!
+  subtitle: ' '
+  title: Jetzt Mitmachen!
 ---
 <LandingPage/>
