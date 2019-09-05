@@ -65,9 +65,9 @@ structures:
       Das dezentrale Format nimmt die Anforderungen der Stadtbezirke und
       Quartiere in den Fokus. Das Engagement und die Engagementförderung erfolgt
       hier in Beziehungsstrukturen nah und persönlich an den Menschen und
-      Gruppen mit deren persönlichen und sozia-len Ausgangslagen. Wichtige
+      Gruppen mit deren persönlichen und sozialen Ausgangslagen. Wichtige
       Funktionen der Engagementförderung wie z.B. die Ge-winnung, Begleitung,
-      Vernetzung und Anerkennung erfolgen in der Praxis der dezent-ralen
+      Vernetzung und Anerkennung erfolgen in der Praxis der dezentralen
       Einheiten. Hier wird die Beratung zur Umsetzung gemeinsamer Standards
       aktiv. 
     image: /images/dsc09077-kopie.jpg
