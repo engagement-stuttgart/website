@@ -2,32 +2,46 @@
 title: xxx
 hero:
   description: >-
-    Im Rahmen einer neuen strategischen Zielausrichtung des Bürgerschaftlichen
-    Engagements werden bereits seit drei Jahren die Aufgabenbereiche zwischen
-    dem Haupt- und Personalamt, dem Sozialamt, den übrigen Fachverwaltungen
-    sowie mit den zivilgesellschaftlichen Organisationen und Unternehmen enger
-    aufeinander abgestimmt. Es soll Orte des Bürgerschaftlichen Engagements
-    geben, die das Engagement stärken und bei der Weiterentwicklung desselben
-    helfen sollen.
-  image: /images/hero.svg
+    Die hohe Lebensqualität in Stuttgart verdankt sich zu einem wesentlichen
+    Teil dem freiwilligen und ehrenamtlichen Wirken vieler Bürgerinnen und
+    Bürger, Unternehmer/-innen und Stifter/-innen. Dieses Engagement ist ein
+    wertvoller Schatz. Engagement findet in verschiedenen Organisationsformen
+    statt und ist mit unterschiedlichsten Erwartungen verbunden. Dieses
+    Engagement gilt es in Zeiten sozialer Veränderungen zu erhalten und
+    weiterzuentwickeln. Staat und Stadtgesellschaft sind auf das
+    bürgerschaftliche Engagement aller Einwohnerinnen und Einwohner angewiesen.
+    Das zeigt sich nicht nur an den veränderten Familienstrukturen, bei der
+    Kinderarmut, bei den Fragen zur Generationengerechtigkeit oder der
+    beschleunigten Migration. Auch die Demokratie schlechthin sowie die
+    politische Bildung und die Kommunalpolitik benötigen das freiwillige
+    Engagement. Dieses freiwillige Engagement und das Ehrenamt sollen honoriert
+    und breiter etabliert werden – auch in neuen Formen. Im Rahmen einer neuen
+    strategischen Zielausrichtung des Bürgerschaftlichen Engagements werden
+    deshalb bereits seit drei Jahren die Aufgabenbereiche zwischen der
+    Landeshauptstadt Stuttgart und zivilgesellschaftlichen Organisationen und
+    Unternehmen enger aufeinander abgestimmt. Gemeinsam sollen Orte und Formate
+    des Bürgerschaftlichen Engagements konzipiert und umgesetzt werden, die das
+    Engagement stärken und bei der Weiterentwicklung desselben helfen sollen.
+  image: /images/1.jpg
   subtitle: ' '
   title: Projektbeschreibung
 goals:
   - description: >-
-      die Bereitstellung von zukunftsorientierten Ermöglichungs- und
+      Die Bereitstellung von zukunftsorientierten Ermöglichungs- und
       Beteiligungsstrukturen.
     image: /images/project.svg
-    title: Beteiligung
+    title: Beteiligung und Transparenz
   - description: >-
-      das Bürgerschaftliche Engagement im Sinne des Empowerment-Ansatzes und des
-      Inklusionsanspruches für die ganze Stadtgesellschaft öffnen
+      Das Bürgerschaftliche Engagement in Stuttgart im Sinne des
+      Empowerment-Ansatzes und des Inklusionsanspruches für die ganze
+      Stadtgesellschaft öffnen
     image: /images/project.svg
     title: Empowerment und Inklusion
   - description: >-
-      die Engagementgewinnung und -weiterentwicklung sowie den Erhalt
+      Die Engagementgewinnung und -weiterentwicklung sowie den Erhalt
       bestehender Engagementangebote zu fördern
     image: /images/project.svg
-    title: Aquise
+    title: Aquise und Anerkennung
 structure:
   description: >-
     Die Neukonzeption zur Förderung des Bürgerschaftlichen Engagements
