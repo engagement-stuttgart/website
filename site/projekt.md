@@ -28,7 +28,9 @@ hero:
 goals:
   - description: >-
       Die Bereitstellung von zukunftsorientierten Ermöglichungs- und
-      Beteiligungsstrukturen.
+      Beteiligungsstrukturen. Sicherstellung der Beteiligungsorientierung und
+      Transparenz im Engagement. Digitalisierung nutzen, um Zugangs- und
+      Beteiligungsoptionen weiterzuentwickeln. 
     image: /images/project.svg
     title: Beteiligung und Transparenz
   - description: >-
