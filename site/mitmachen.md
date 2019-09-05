@@ -10,7 +10,7 @@ hero:
     Vermittlungsplattform, etc.), AG Öffentlichkeitsarbeit (CI/CD, Kampagnen,
     etc.), AG Räume  (Experimentierort, dezentrale Räume, Tournee, etc.) -->
     Anmeldung zu den Arbeitsgruppen unter  buergerengagement@stuttgart.de
-  image: /images/hero.svg
+  image: /images/arbeitsgruppen.png
   subtitle: ' '
   title: Mitmachen
 ---
