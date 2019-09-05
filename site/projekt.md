@@ -37,7 +37,7 @@ goals:
       Das Bürgerschaftliche Engagement in Stuttgart im Sinne des
       Empowerment-Ansatzes und des Inklusionsanspruches für die ganze
       Stadtgesellschaft öffnen
-    image: /images/project.svg
+    image: /images/konzept-engagement-und-beteiligung_organigramm.jpg
     title: Empowerment und Inklusion
   - description: >-
       Die Engagementgewinnung und -weiterentwicklung sowie den Erhalt
