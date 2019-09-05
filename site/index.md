@@ -45,15 +45,15 @@ sponsors:
     title: Fake Förderer 3
 callToAction:
   description: >-
-    Engagierte Menschen brauchen Räume für Begegnungen, Gestaltung, für
-    Inspiration, Kooperation und Vernetzung – analog und digital. Dann können
-    sie die Welt bewegen und für einen funktionierenden gesellschaftlichen
-    Zusammenhalt sorgen.
-  image: /images/hero.svg
+    Einzigartig am an diesem Prozess ist die Zusammenarbeit von
+    Zivilgesellschaft, Unternehmen und Verwaltung. Alle Akteure finden sich hier
+    zusammen, lernen voneinander und setzen gemeinsam Konzepte um. Werden Sie
+    Teil dieses stadtweiten Prozesses!
+  image: /images/mitmachen.png
   link:
     text: Mitmachen
     url: /mitmachen
-  subtitle: oder so
-  title: Mach Mit!
+  subtitle: ' '
+  title: Jetzt Mitmachen!
 ---
 <LandingPage/>
