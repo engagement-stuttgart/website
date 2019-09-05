@@ -52,13 +52,13 @@ structures:
       Es soll ein „Haus für die Förderung des Bürgerengagements" in zentraler
       Lage in Stuttgart realisiert werden. In diesem Zentrum findet die
       Weiterentwicklung des Bürgerschaftlichen Engagements statt.
-    image: /images/project.svg
+    image: /images/haus.jpg
     title: Zentral
   - description: >-
       Beim dezentralen Ansatz sollen die Stadtbezirke involviert und dort
       vorhandenes Engagement sichtbar gemacht werden.  Das dezentrale Format
       nimmt die Anforderungen der Stadtbezirke und Quartiere in den Fokus.
-    image: /images/project.svg
+    image: /images/dsc09077-kopie.jpg
     title: Dezentral
   - description: >-
       Das digitale Format bündelt bestehende digitale Angebote (Internetangebot,
