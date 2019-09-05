@@ -22,7 +22,7 @@ hero:
     Unternehmen enger aufeinander abgestimmt. Gemeinsam sollen Orte und Formate
     des Bürgerschaftlichen Engagements konzipiert und umgesetzt werden, die das
     Engagement stärken und bei der Weiterentwicklung desselben helfen sollen.
-  image: /images/1.jpg
+  image: /images/gr_stuttgart_hauptundpersonalamt_3_72.jpg
   subtitle: ' '
   title: Projektbeschreibung
 goals:
