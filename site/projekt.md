@@ -56,7 +56,9 @@ structures:
   - description: >-
       Es soll ein „Haus für die Förderung des Bürgerengagements" in zentraler
       Lage in Stuttgart realisiert werden. In diesem Zentrum findet die
-      Weiterentwicklung des Bürgerschaftlichen Engagements statt.
+      Weiterentwicklung des Bürgerschaftlichen Engagements statt. Es ist ein
+      offener Ort für jedermann, eine Begegnungsstätte und ein Lernort im besten
+      Sinne - sozial und kulturell eng vernetzt mit der Nachbarschaft. 
     image: /images/haus.jpg
     title: Zentral
   - description: >-
