@@ -28,18 +28,23 @@ hero:
 goals:
   - description: >-
       Die Bereitstellung von zukunftsorientierten Ermöglichungs- und
-      Beteiligungsstrukturen.
+      Beteiligungsstrukturen. Sicherstellung der Beteiligungsorientierung und
+      Transparenz im Engagement. Digitalisierung nutzen, um Zugangs- und
+      Beteiligungsoptionen weiterzuentwickeln. 
     image: /images/project.svg
     title: Beteiligung und Transparenz
   - description: >-
       Das Bürgerschaftliche Engagement in Stuttgart im Sinne des
       Empowerment-Ansatzes und des Inklusionsanspruches für die ganze
       Stadtgesellschaft öffnen
-    image: /images/project.svg
+    image: /images/konzept-engagement-und-beteiligung_organigramm.jpg
     title: Empowerment und Inklusion
   - description: >-
       Die Engagementgewinnung und -weiterentwicklung sowie den Erhalt
-      bestehender Engagementangebote zu fördern
+      bestehender Engagementangebote fördern. Die Aktivitäten der Träger der
+      Engagementförderung bündeln, um Doppelstrukturen zu vermeiden und
+      Synergieeffekte zu nutzen. Die unterschiedlichen Formen des Engagements
+      anerkennen.
     image: /images/project.svg
     title: Aquise und Anerkennung
 structure:
