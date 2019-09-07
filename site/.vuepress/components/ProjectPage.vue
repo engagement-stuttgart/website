@@ -3,12 +3,13 @@
 	.hero
 		.text
 			h1 {{ $page.frontmatter.hero.title }}
-			h2 {{ $page.frontmatter.hero.subtitle }}
+			h2(v-if="$page.frontmatter.hero.subtitle !== ' '") {{ $page.frontmatter.hero.subtitle }}
 			p {{ $page.frontmatter.hero.description }}
 		img(:src="$page.frontmatter.hero.image")
-	h2 Ziele
+	h2 {{ $page.frontmatter.goals.title }}
+	p {{ $page.frontmatter.goals.description }}
 	.goals
-		.goal(v-for="goal of $page.frontmatter.goals")
+		.goal(v-for="goal of $page.frontmatter.goals.items")
 			img(:src="goal.image")
 			.text
 				h3 {{ goal.title }}
@@ -69,15 +70,20 @@ export default {
 	.structures
 		display: flex
 		.structure
+			flex: 1
 			display: flex
 			flex-direction: column
-			margin: 0 32px
+			margin: 0 16px
+			&:first-child
+				margin-left: 0
+			&:last-child
+				margin-right: 0
 			.text
 				padding-top: 32px
 			h2
 				border: none
 			img
-				margin: 32px 0 0 32px
+				margin: 32px 0 -48px 0
 				flex: none
 				height: 200px
 </style>

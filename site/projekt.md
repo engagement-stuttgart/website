@@ -12,38 +12,41 @@ hero:
     Einwohnerinnen und Einwohner angewiesen. Auch die Demokratie schlechthin
     sowie die politische Bildung und die Kommunalpolitik benötigen das
     freiwillige Engagement. Dieses freiwillige Engagement und das Ehrenamt
-    sollen honoriert und breiter etabliert werden – auch in neuen Formen. Im
-    Rahmen einer neuen strategischen Zielausrichtung des Bürgerschaftlichen
+    sollen honoriert und breiter etabliert werden – auch in neuen Formen.
+  image: /images/projekt-hero.svg
+  subtitle: ' '
+  title: Projekt
+goals:
+  title: Ziele
+  description: >-
+    Im Rahmen einer neuen strategischen Zielausrichtung des Bürgerschaftlichen
     Engagements werden deshalb die Aufgabenbereiche zwischen der Stadt und
     zivilgesellschaftlichen Organisationen und Unternehmen enger aufeinander
     abgestimmt. Gemeinsam sollen Orte und Formate des Bürgerschaftlichen
     Engagements konzipiert und umgesetzt werden, die das Engagement stärken und
     bei der Weiterentwicklung desselben helfen.
-  image: /images/process.svg
-  subtitle: ' '
-  title: Projektbeschreibung
-goals:
-  - description: >-
-      Bereitstellung von zukunftsorientierten Ermöglichungs- und
-      Beteiligungsstrukturen. Sicherstellung der Beteiligungsorientierung und
-      Transparenz im Engagement. Digitalisierung nutzen, um Zugangs- und
-      Beteiligungsoptionen weiterzuentwickeln. 
-    image: /images/newsletter.png
-    title: Beteiligung und Transparenz
-  - description: >-
-      Das Bürgerschaftliche Engagement in Stuttgart im Sinne des
-      Empowerment-Ansatzes und des Inklusionsanspruches für die ganze
-      Stadtgesellschaft öffnen
-    image: /images/inklusion.png
-    title: Empowerment und Inklusion
-  - description: >-
-      Die Engagementgewinnung und -weiterentwicklung sowie den Erhalt
-      bestehender Engagementangebote fördern. Die Aktivitäten der Träger der
-      Engagementförderung bündeln, um Doppelstrukturen zu vermeiden und
-      Synergieeffekte zu nutzen. Die unterschiedlichen Formen des Engagements
-      anerkennen.
-    image: /images/anerkennung.png
-    title: Aquise und Anerkennung
+  items:
+    - description: >-
+        Bereitstellung von zukunftsorientierten Ermöglichungs- und
+        Beteiligungsstrukturen. Sicherstellung der Beteiligungsorientierung und
+        Transparenz im Engagement. Digitalisierung nutzen, um Zugangs- und
+        Beteiligungsoptionen weiterzuentwickeln.
+      image: /images/beteiligung.svg
+      title: Beteiligung und Transparenz
+    - description: >-
+        Das Bürgerschaftliche Engagement in Stuttgart im Sinne des
+        Empowerment-Ansatzes und des Inklusionsanspruches für die ganze
+        Stadtgesellschaft öffnen
+      image: /images/inklusion.svg
+      title: Empowerment und Inklusion
+    - description: >-
+        Die Engagementgewinnung und -weiterentwicklung sowie den Erhalt
+        bestehender Engagementangebote fördern. Die Aktivitäten der Träger der
+        Engagementförderung bündeln, um Doppelstrukturen zu vermeiden und
+        Synergieeffekte zu nutzen. Die unterschiedlichen Formen des Engagements
+        anerkennen.
+      image: /images/anerkennung.svg
+      title: Aquise und Anerkennung
 structure:
   description: >-
     Die Neukonzeption zur Förderung des Bürgerschaftlichen Engagements
@@ -55,8 +58,8 @@ structures:
       Lage in Stuttgart realisiert werden. In diesem Zentrum findet die
       Weiterentwicklung des Bürgerschaftlichen Engagements statt. Es ist ein
       offener Ort für jedermann, eine Begegnungsstätte und ein Lernort im besten
-      Sinne - sozial und kulturell eng vernetzt mit der Nachbarschaft. 
-    image: /images/haus1.png
+      Sinne - sozial und kulturell eng vernetzt mit der Nachbarschaft.
+    image: /images/zentral.svg
     title: Zentral
   - description: >-
       Das dezentrale Format nimmt die Anforderungen der Stadtbezirke und
@@ -66,8 +69,8 @@ structures:
       Funktionen der Engagementförderung wie z.B. die Gewinnung, Begleitung,
       Vernetzung und Anerkennung erfolgen in der Praxis der dezentralen
       Einheiten. Hier wird die Beratung zur Umsetzung gemeinsamer Standards
-      aktiv. 
-    image: /images/natur.png
+      aktiv.
+    image: /images/dezentral.svg
     title: Dezentral
   - description: >-
       Das digitale Format bündelt bestehende digitale Angebote (Internetangebot,
@@ -75,8 +78,8 @@ structures:
       digitale Angebote des Projektmanagements, der Beteiligung, Vernetzung und
       Kooperation. Das digitale Format berücksichtigt dabei zentrale und
       dezentrale Anforderungen. Hierbei soll auch auf das Engagement und Know
-      How von Non-profit-Gruppen und Unternehmen zurückgegriffen werden. 
-    image: /images/digital.png
+      How von Non-profit-Gruppen und Unternehmen zurückgegriffen werden.
+    image: /images/digital.svg
     title: Digital
 ---
 <ProjectPage />

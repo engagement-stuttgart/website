@@ -7,7 +7,7 @@ hero:
     Zivilgesellschaft durchgeführt. Ziel war und ist es weiterhin,
     Entwicklungspotentiale zu ermitteln und die Unterstützung der Engagierten
     bedarfsorientiert zu verbessern.
-  image: /images/workshops.png
+  image: /images/ergebnisse-hero.svg
   subtitle: ' '
   title: Ergebnisse
 timeline:

@@ -20,7 +20,7 @@
   "homepage": "https://github.com/engagement-stuttgart/website#readme",
   "dependencies": {
     "netlify-cms": "^2.9.7",
-    "vuepress": "^1.0.3",
+    "vuepress": "^1.0.4",
     "vuepress-plugin-clean-urls": "^1.0.3"
   },
   "devDependencies": {

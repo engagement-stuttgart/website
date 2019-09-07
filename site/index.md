@@ -5,7 +5,7 @@ hero:
     Inspiration, Kooperation und Vernetzung – analog und digital. Dann können
     sie die Welt bewegen und für einen funktionierenden gesellschaftlichen
     Zusammenhalt sorgen.
-  image: /images/haus.jpg
+  image: /images/hero.svg
   link:
     text: Mitmachen
     url: /mitmachen
@@ -15,7 +15,7 @@ highlights:
   - description: >-
       Das CityLab ist ein großer Aufbruch für die Stadt – für mehr Engagement
       und gesellschaftlichen Zusammenhalt.
-    image: /images/project.svg
+    image: /images/projekt.svg
     link:
       text: mehr lernen
       url: /projekt
@@ -23,10 +23,10 @@ highlights:
     title: Projekt
   - description: >-
       Seit 2016 hat die Arbeitsgruppe der genannten Träger mehr als 20
-      Workshops, Klausu-ren und zwei Fachtagungen zusammen mit vielen Partnern
+      Workshops, Klausuren und zwei Fachtagungen zusammen mit vielen Partnern
       der Zivilgesellschaft durch-geführt. Ziel war und ist es weiterhin,
-      Entwicklungspotentiale zu ermitteln und die Un-terstützung der Engagierten
-      bedarfsorientiert zu verbessern. 
+      Entwicklungspotentiale zu ermitteln und die Unterstützung der Engagierten
+      bedarfsorientiert zu verbessern.
     image: /images/process.svg
     link:
       text: mehr lernen
@@ -49,7 +49,7 @@ callToAction:
     Zivilgesellschaft, Unternehmen und Verwaltung. Alle Akteure finden sich hier
     zusammen, lernen voneinander und setzen gemeinsam Konzepte um. Werden Sie
     Teil dieses stadtweiten Prozesses!
-  image: /images/mitmachen.png
+  image: /images/mitmachen.svg
   link:
     text: Mitmachen
     url: /mitmachen

@@ -11,7 +11,7 @@
 		.highlight(v-for="highlight of $page.frontmatter.highlights")
 			.text
 				h1 {{ highlight.title }}
-				h2 {{ highlight.subtitle }}
+				h2(v-if="highlight.subtitle !== ' '") {{ highlight.subtitle }}
 				p {{ highlight.description }}
 				a#btn-mitmachen(:href="highlight.link.url") {{ highlight.link.text }}
 			img(:src="highlight.image")
@@ -22,7 +22,6 @@
 	.call-to-action
 		.text
 			h1 {{ $page.frontmatter.callToAction.title }}
-			h2 {{ $page.frontmatter.callToAction.subtitle }}
 			p {{ $page.frontmatter.callToAction.description }}
 			a#btn-mitmachen(:href="$page.frontmatter.callToAction.link.url") {{ $page.frontmatter.callToAction.link.text }}
 		img(:src="$page.frontmatter.callToAction.image")
@@ -55,6 +54,13 @@ export default {
 			margin: 32px 0 0 32px
 			flex: none
 			height: 300px
+
+	.hero
+		h1
+			font-size: 64px
+			margin-bottom: 0
+		h2
+			margin: 0
 
 	#btn-mitmachen
 		display inline-block
