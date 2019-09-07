@@ -4,7 +4,7 @@
 		.text
 			h1 {{ $page.frontmatter.hero.title }}
 			h2(v-if="$page.frontmatter.hero.subtitle !== ' '") {{ $page.frontmatter.hero.subtitle }}
-			p {{ $page.frontmatter.hero.description }}
+			div(v-markdown="$page.frontmatter.hero.description")
 		img(:src="$page.frontmatter.hero.image")
 	h2 {{ $page.frontmatter.goals.title }}
 	p {{ $page.frontmatter.goals.description }}
@@ -15,7 +15,7 @@
 				h3 {{ goal.title }}
 				p {{ goal.description }}
 	h2 {{ $page.frontmatter.structure.title }}
-	p {{ $page.frontmatter.structure.description }}
+	div(v-markdown="$page.frontmatter.structure.description")
 	.structures
 		.structure(v-for="structure of $page.frontmatter.structures")
 			img(:src="structure.image")

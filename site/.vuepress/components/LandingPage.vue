@@ -53,7 +53,7 @@ export default {
 		img
 			margin: 32px 0 0 32px
 			flex: none
-			height: 300px
+			width: 435px
 
 	.hero
 		h1
