@@ -1,5 +1,5 @@
 ---
-title: xxx
+title: Projekt
 hero:
   description: >-
     Die hohe Lebensqualität in Stuttgart verdankt sich zu einem wesentlichen
