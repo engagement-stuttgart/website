@@ -52,34 +52,34 @@ structure:
     Die Neukonzeption zur Förderung des Bürgerschaftlichen Engagements
     orientiert sich dabei an den drei Formaten: zentral, dezentral und digital
   title: Format
-structures:
-  - description: >-
-      Es soll ein „Haus für die Förderung des Bürgerengagements" in zentraler
-      Lage in Stuttgart realisiert werden. In diesem Zentrum findet die
-      Weiterentwicklung des Bürgerschaftlichen Engagements statt. Es ist ein
-      offener Ort für jedermann, eine Begegnungsstätte und ein Lernort im besten
-      Sinne - sozial und kulturell eng vernetzt mit der Nachbarschaft.
-    image: /images/zentral.svg
-    title: Zentral
-  - description: >-
-      Das dezentrale Format nimmt die Anforderungen der Stadtbezirke und
-      Quartiere in den Fokus. Das Engagement und die Engagementförderung erfolgt
-      hier in Beziehungsstrukturen nah und persönlich an den Menschen und
-      Gruppen mit deren persönlichen und sozialen Ausgangslagen. Wichtige
-      Funktionen der Engagementförderung wie z.B. die Gewinnung, Begleitung,
-      Vernetzung und Anerkennung erfolgen in der Praxis der dezentralen
-      Einheiten. Hier wird die Beratung zur Umsetzung gemeinsamer Standards
-      aktiv.
-    image: /images/dezentral.svg
-    title: Dezentral
-  - description: >-
-      Das digitale Format bündelt bestehende digitale Angebote (Internetangebot,
-      Vermittlungsplattform) und entwickelt diese weiter. Neu konzipiert werden
-      digitale Angebote des Projektmanagements, der Beteiligung, Vernetzung und
-      Kooperation. Das digitale Format berücksichtigt dabei zentrale und
-      dezentrale Anforderungen. Hierbei soll auch auf das Engagement und Know
-      How von Non-profit-Gruppen und Unternehmen zurückgegriffen werden.
-    image: /images/digital.svg
+  items:
+    - description: >-
+        Es soll ein „Haus für die Förderung des Bürgerengagements" in zentraler
+        Lage in Stuttgart realisiert werden. In diesem Zentrum findet die
+        Weiterentwicklung des Bürgerschaftlichen Engagements statt. Es ist ein
+        offener Ort für jedermann, eine Begegnungsstätte und ein Lernort im besten
+        Sinne - sozial und kulturell eng vernetzt mit der Nachbarschaft.
+      image: /images/zentral.svg
+      title: Zentral
+    - description: >-
+        Das dezentrale Format nimmt die Anforderungen der Stadtbezirke und
+        Quartiere in den Fokus. Das Engagement und die Engagementförderung erfolgt
+        hier in Beziehungsstrukturen nah und persönlich an den Menschen und
+        Gruppen mit deren persönlichen und sozialen Ausgangslagen. Wichtige
+        Funktionen der Engagementförderung wie z.B. die Gewinnung, Begleitung,
+        Vernetzung und Anerkennung erfolgen in der Praxis der dezentralen
+        Einheiten. Hier wird die Beratung zur Umsetzung gemeinsamer Standards
+        aktiv.
+      image: /images/dezentral.svg
+      title: Dezentral
+    - description: >-
+        Das digitale Format bündelt bestehende digitale Angebote (Internetangebot,
+        Vermittlungsplattform) und entwickelt diese weiter. Neu konzipiert werden
+        digitale Angebote des Projektmanagements, der Beteiligung, Vernetzung und
+        Kooperation. Das digitale Format berücksichtigt dabei zentrale und
+        dezentrale Anforderungen. Hierbei soll auch auf das Engagement und Know
+        How von Non-profit-Gruppen und Unternehmen zurückgegriffen werden.
+      image: /images/digital.svg
     title: Digital
 ---
 <ProjectPage />

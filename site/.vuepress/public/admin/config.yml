@@ -79,24 +79,30 @@ collections:
               - {label: "Image", name: "image", widget: "image"}
           - label: Ziele
             name: goals
-            widget: list
+            widget: object
             fields:
               - {label: "Title", name: "title", widget: "string"}
-              - {label: "Description", name: "description", widget: "string"}
-              - {label: "Image", name: "image", widget: "image"}
+              - {label: "Description", name: "description", widget: "markdown"}
+              - label: Ziele
+                name: items
+                widget: list
+                fields:
+                  - {label: "Title", name: "title", widget: "string"}
+                  - {label: "Description", name: "description", widget: "string"}
+                  - {label: "Image", name: "image", widget: "image"}
           - label: Struktur
             name: structure
             widget: object
             fields:
               - {label: "Title", name: "title", widget: "string"}
               - {label: "Description", name: "description", widget: "string"}
-          - label: Strukturen
-            name: structures
-            widget: list
-            fields:
-              - {label: "Title", name: "title", widget: "string"}
-              - {label: "Description", name: "description", widget: "string"}
-              - {label: "Image", name: "image", widget: "image"}
+              - label: Strukturen
+                name: items
+                widget: list
+                fields:
+                  - {label: "Title", name: "title", widget: "string"}
+                  - {label: "Description", name: "description", widget: "string"}
+                  - {label: "Image", name: "image", widget: "image"}
       - file: "site/fortschritt.md"
         label: "Fortschritt"
         name: "fortschritt"
