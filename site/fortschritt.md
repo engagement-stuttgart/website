@@ -1,5 +1,5 @@
 ---
-title: xxx
+title: XXX
 hero:
   description: >-
     Seit 2016 hat die Arbeitsgruppe BE-Strategie mehr als 20 Workshops,
