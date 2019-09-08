@@ -80,6 +80,6 @@ structure:
         dezentrale Anforderungen. Hierbei soll auch auf das Engagement und Know
         How von Non-profit-Gruppen und Unternehmen zurückgegriffen werden.
       image: /images/digital.svg
-    title: Digital
+      title: Digital
 ---
 <ProjectPage />
