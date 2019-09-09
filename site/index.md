@@ -24,7 +24,7 @@ highlights:
   - description: >-
       In den letzten vier Jahren haben die Projektförderer mehr als 20
       Workshops, Klausuren und zwei Fachtagungen zusammen mit vielen Partnern
-      der Zivilgesellschaft durch-geführt. Ziel war und ist es weiterhin,
+      der Zivilgesellschaft durchgeführt. Ziel war und ist es,
       Entwicklungspotentiale zu ermitteln und die Unterstützung der Engagierten
       bedarfsorientiert zu verbessern.
     image: /images/process.svg
