@@ -22,11 +22,11 @@ highlights:
     subtitle: ' '
     title: Projekt
   - description: >-
-      Seit 2016 hat die Arbeitsgruppe der genannten Träger mehr als 20
-      Workshops, Klausuren und zwei Fachtagungen zusammen mit vielen Partnern
-      der Zivilgesellschaft durch-geführt. Ziel war und ist es weiterhin,
-      Entwicklungspotentiale zu ermitteln und die Unterstützung der Engagierten
-      bedarfsorientiert zu verbessern.
+      In den letzten vier Jahren hat die Arbeitsgruppe der Projektförderer mehr
+      als 20 Workshops, Klausuren und zwei Fachtagungen zusammen mit vielen
+      Partnern der Zivilgesellschaft durch-geführt. Ziel war und ist es
+      weiterhin, Entwicklungspotentiale zu ermitteln und die Unterstützung der
+      Engagierten bedarfsorientiert zu verbessern.
     image: /images/process.svg
     link:
       text: mehr lernen
