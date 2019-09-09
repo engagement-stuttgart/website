@@ -17,7 +17,7 @@
 	h2 {{ $page.frontmatter.structure.title }}
 	div(v-markdown="$page.frontmatter.structure.description")
 	.structures
-		.structure(v-for="structure of $page.frontmatter.structures")
+		.structure(v-for="structure of $page.frontmatter.structure.items")
 			img(:src="structure.image")
 			.text
 				h3 {{ structure.title }}
