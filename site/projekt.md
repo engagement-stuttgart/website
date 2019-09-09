@@ -53,7 +53,7 @@ goals:
 structure:
   description: >-
     Die Neukonzeption zur Förderung des Bürgerschaftlichen Engagements
-    orientiert sich dabei an den drei Formaten: zentral, dezentral und digital
+    orientiert sich dabei an drei Formaten: zentral, dezentral und digital.
   items:
     - description: >-
         Es soll ein „Haus für die Förderung des Bürgerengagements" in zentraler
