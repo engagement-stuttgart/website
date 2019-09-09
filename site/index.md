@@ -13,8 +13,10 @@ hero:
   title: CityLab Stuttgart
 highlights:
   - description: >-
-      Das CityLab ist ein großer Aufbruch für die Stadt – für mehr Engagement
-      und gesellschaftlichen Zusammenhalt.
+      Das freiwillige Engagement und das Ehrenamt in Stuttgart sollen honoriert
+      und breiter etabliert werden – auch in neuen Formen. Das CityLab ist ein
+      großer Aufbruch für die Stadt – für mehr Engagement und gesellschaftlichen
+      Zusammenhalt.
     image: /images/projekt.svg
     link:
       text: mehr lernen
