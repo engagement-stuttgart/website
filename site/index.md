@@ -4,11 +4,9 @@ hero:
     Engagierte Menschen brauchen Räume für Begegnungen, Gestaltung, für
     Inspiration, Kooperation und Vernetzung – analog und digital. Dann können
     sie die Welt bewegen und für einen funktionierenden gesellschaftlichen
-    Zusammenhalt sorgen. Es sollen alle Einwohnerinnen und Einwohner in ihren
+    Zusammenhalt sorgen. Alle Einwohnerinnen und Einwohner sollen in ihren
     Lebensräumen vor Ort - im Stadtbezirk, in den Stadtteilen, in den Quartieren
-    - Mitwirkungs- und Mitgestaltungschancen erhalten. Für ein solidarisches
-    Zusammenleben in unserer vielfältigen Stadtgesellschaft und damit für eine
-    lebendige städtische Demokratie soll sich jeder und jede einbringen können.
+    - Mitwirkungs- und Mitgestaltungschancen erhalten. 
   image: /images/hero.svg
   link:
     text: Mitmachen
