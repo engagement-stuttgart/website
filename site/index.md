@@ -4,7 +4,11 @@ hero:
     Engagierte Menschen brauchen Räume für Begegnungen, Gestaltung, für
     Inspiration, Kooperation und Vernetzung – analog und digital. Dann können
     sie die Welt bewegen und für einen funktionierenden gesellschaftlichen
-    Zusammenhalt sorgen.
+    Zusammenhalt sorgen. Es sollen alle Einwohnerinnen und Einwohner in ihren
+    Lebensräumen vor Ort - im Stadtbezirk, in den Stadtteilen, in den Quartieren
+    - Mitwirkungs- und Mitgestaltungschancen erhalten. Für ein solidarisches
+    Zusammenleben in unserer vielfältigen Stadtgesellschaft und damit für eine
+    lebendige städtische Demokratie soll sich jeder und jede einbringen können.
   image: /images/hero.svg
   link:
     text: Mitmachen
@@ -13,8 +17,12 @@ hero:
   title: CityLab Stuttgart
 highlights:
   - description: >-
-      Das CityLab ist ein großer Aufbruch für die Stadt – für mehr Engagement
-      und gesellschaftlichen Zusammenhalt.
+      Stuttgart ist eine Stadt voller Engagement. Damit sich noch mehr Menschen
+      an der Gestaltung des gesellschaftlichen Wandels beteiligen, sollen das
+      freiwillige Engagement und das Ehrenamt in Stuttgart honoriert und breiter
+      etabliert werden – auch in neuen Formen. Das CityLab ist ein großer
+      Aufbruch für die Stadt – für mehr Engagement und gesellschaftlichen
+      Zusammenhalt.
     image: /images/projekt.svg
     link:
       text: mehr lernen
@@ -22,9 +30,9 @@ highlights:
     subtitle: ' '
     title: Projekt
   - description: >-
-      Seit 2016 hat die Arbeitsgruppe der genannten Träger mehr als 20
+      In den letzten vier Jahren haben die Projektförderer mehr als 20
       Workshops, Klausuren und zwei Fachtagungen zusammen mit vielen Partnern
-      der Zivilgesellschaft durch-geführt. Ziel war und ist es weiterhin,
+      der Zivilgesellschaft durchgeführt. Ziel war und ist es,
       Entwicklungspotentiale zu ermitteln und die Unterstützung der Engagierten
       bedarfsorientiert zu verbessern.
     image: /images/process.svg
