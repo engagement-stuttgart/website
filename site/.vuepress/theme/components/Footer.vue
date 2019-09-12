@@ -18,8 +18,3 @@ export default {
 	methods: {}
 }
 </script>
-<style lang="stylus">
-.site-footer
-	height: 128px
-	background-color: $clr-grey-200
-</style>
