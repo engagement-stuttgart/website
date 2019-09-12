@@ -28,7 +28,7 @@ timeline:
       die allen Interessierten offenstehen (AG Angebote, AG Digitales, AG
       Öffentlichkeitsarbeit, AG Räume).
     title: Fachtagung „Haus des bürgerschaftlichen Engagements“
-  - date: 'Fortschrittstreffen „ENGAGEMENT.STUTTGART – ZENTRAL. DEZENTRAL. DIGITAL.“ '
+  - date: 02.07.2019
     description: >-
       Die Ergebnisse des Fachtags vom Februar 2019 wurden präsentiert und
       gemeinsam wurde diskutiert, wie es gelingen kann:  1. bürgerschaftlich
@@ -36,13 +36,15 @@ timeline:
       stattfindet, sichtbar zu machen und 3. bürgerschaftliches Know-How an
       einem Ort zu bündeln. Die Teilnehmenden der Veranstaltung haben Vorschläge
       gemacht, wie ein „Haus des bürgerschaftlichen Engagements“ heißen könnte. 
-    title: 02.07.2019
-  - date: Gründung der Arbeitsgruppen
+    title: >-
+      Fortschrittstreffen „ENGAGEMENT. STUTTGART – ZENTRAL. DEZENTRAL.
+      DIGITAL.“ 
+  - date: 01.08.2019
     description: >-
       AG Angebote (Beratung, Qualifizierung, etc.), AG Digitales
       (Internetplattform, Vermittlungsplattform, etc.), AG Öffentlichkeitsarbeit
       (CI/CD, Kampagnen, etc.), AG Räume (Experimentierort, dezentrale Räume,
       Tournee, etc.)
-    title: 01.08.2019
+    title: Gründung der Arbeitsgruppen
 ---
 <ProgressPage />
