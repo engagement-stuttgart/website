@@ -37,5 +37,12 @@ timeline:
       einem Ort zu bündeln. Die Teilnehmenden der Veranstaltung haben Vorschläge
       gemacht, wie ein „Haus des bürgerschaftlichen Engagements“ heißen könnte. 
     title: 02.07.2019
+  - date: Gründung der Arbeitsgruppen
+    description: >-
+      AG Angebote (Beratung, Qualifizierung, etc.), AG Digitales
+      (Internetplattform, Vermittlungsplattform, etc.), AG Öffentlichkeitsarbeit
+      (CI/CD, Kampagnen, etc.), AG Räume (Experimentierort, dezentrale Räume,
+      Tournee, etc.)
+    title: 01.08.2019
 ---
 <ProgressPage />
