@@ -22,7 +22,10 @@ workingGroups:
       Freiwilligenarbeit, eine Homepage, etc.
     name: ag-digitales
     title: Digitales
-  - description: 'CI/CD, Kampagnen, etc.'
+  - description: >-
+      Thematisch macht die AG Öffentlichkeitsarbeit alles von der Namensfindung
+      für den Prozess über die Ideensammlung für die Homepage,
+      Informationsmaterial, Social Media, etc.
     name: ag-öffentlichkeit
     title: Öffentlichkeitsarbeit
   - description: >-
