@@ -1,12 +1,12 @@
 ---
 hero:
   description: >-
-    Engagierte Menschen brauchen Räume für Begegnungen, Gestaltung, für
+    Engagierte Menschen brauchen Räume für Begegnung, Gestaltung, für
     Inspiration, Kooperation und Vernetzung – analog und digital. Dann können
-    sie die Welt bewegen und für einen funktionierenden gesellschaftlichen
-    Zusammenhalt sorgen. Alle Einwohnerinnen und Einwohner sollen in ihren
-    Lebensräumen vor Ort - im Stadtbezirk, in den Stadtteilen, in den Quartieren
-    - Mitwirkungs- und Mitgestaltungschancen erhalten. 
+    sie die Welt bewegen und für einen guten Zusammenhalt in der Gesellschaft
+    sorgen. Alle Einwohnerinnen und Einwohner sollen in ihren Lebensräumen vor
+    Ort - im Stadtbezirk, in den Stadtteilen, in den Quartieren – Möglichkeiten
+    zur Mitwirkung und Mitgestaltung erhalten.
   image: /images/hero.svg
   link:
     text: Mitmachen
