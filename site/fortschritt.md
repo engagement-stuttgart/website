@@ -21,7 +21,9 @@ timeline:
     title: Umfragen und Erhebungen zum Bürgerengagement in Stuttgart
   - date: 23.06.2017
     description: >-
-      70 Teilnehmer/-innen aus der Praxis haben in moderierten Workshops
+      Die aus der Befragung gewonnenen Erkenntnisse wurden beim Fachtag mit 70
+      Teilnehmer/-innen aus der Praxis (Organisationen, Dachverbände,
+      Einrichtungen und Initiativen) diskutiert und in moderierten Workshops
       konkrete Vorschläge zur Förderung des Bürgerschaftlichen Engagements in
       Stuttgart erarbeitet.
     title: >-
