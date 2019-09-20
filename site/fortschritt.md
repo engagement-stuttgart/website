@@ -11,8 +11,21 @@ hero:
   subtitle: ' '
   title: Ergebnisse
 timeline:
+  - date: 2015 - 2017
+    description: >-
+      In den Umfragen wurde deutlich, dass Engagement in verschiedenen
+      Organisationsformen stattfin-det und mit unterschiedlichsten Erwartungen
+      verbunden ist. Um genauer zu erfahren, welchen Bedarf die verschiedenen
+      Zielgruppen haben, wurde zunächst persönliche Befragungen und dann eine
+      online-Befragung bestimmter Zielgruppen durchgeführt.
+    title: Umfragen und Erhebungen zum Bürgerengagement in Stuttgart
   - date: 23.06.2017
-    description: 70 Teilnehmer/-innen aus der Praxis haben konkrete Vorschläge erarbeitet.
+    description: >-
+      Die aus der Befragung gewonnenen Erkenntnisse wurden beim Fachtag mit 70
+      Teilnehmer/-innen aus der Praxis (Organisationen, Dachverbände,
+      Einrichtungen und Initiativen) diskutiert und in moderierten Workshops
+      konkrete Vorschläge zur Förderung des Bürgerschaftlichen Engagements in
+      Stuttgart erarbeitet.
     title: >-
       Fachtagung „Bürgerschaftliches Engagement in der Landeshauptstadt
       Stuttgart – Ermöglichungsstrukturen weiterentwickeln“
@@ -36,15 +49,14 @@ timeline:
       stattfindet, sichtbar zu machen und 3. bürgerschaftliches Know-How an
       einem Ort zu bündeln. Die Teilnehmenden der Veranstaltung haben Vorschläge
       gemacht, wie ein „Haus des bürgerschaftlichen Engagements“ heißen könnte. 
-    title: >-
-      Fortschrittstreffen „ENGAGEMENT. STUTTGART – ZENTRAL. DEZENTRAL.
-      DIGITAL.“ 
+    title: 'Fortschrittstreffen „Engagement. Stuttgart – zentral. dezentral. digital“ '
   - date: 01.08.2019
     description: >-
-      AG Angebote (Beratung, Qualifizierung, etc.), AG Digitales
-      (Internetplattform, Vermittlungsplattform, etc.), AG Öffentlichkeitsarbeit
-      (CI/CD, Kampagnen, etc.), AG Räume (Experimentierort, dezentrale Räume,
-      Tournee, etc.)
+      Die Arbeitsgruppen AG Angebote (Beratung, Qualifizierung, etc.), AG
+      Digitales (Internetplattform, Vermittlungsplattform, etc.), AG
+      Öffentlichkeitsarbeit (CI/CD, Kampagnen, etc.), AG Räume
+      (Experimentierort, dezentrale Räume, Tournee, etc.) haben ihre Arbeit
+      aufgenommen.
     title: Gründung der Arbeitsgruppen
 ---
 <ProgressPage />
