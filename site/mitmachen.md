@@ -15,7 +15,11 @@ workingGroups:
       konizipiert neue Angebote für das Engagement in Stuttgart.
     name: ag-angebote
     title: Angebote
-  - description: 'Internetplattform, Vermittlungsplattform, etc.'
+  - description: >-
+      Die Arbeitsgruppe Digitales wird die von den anderen Arbeitsgruppen
+      formulierten Bedarfe in eine Digitalstrategie umwandeln und diese mit
+      externen Partnern umsetzen, beispielsweise eine Vermittlungsplattform für
+      Freiwilligenarbeit, eine Homepage, etc.
     name: ag-digitales
     title: Digitales
   - description: 'CI/CD, Kampagnen, etc.'
