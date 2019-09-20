@@ -12,7 +12,12 @@ hero:
   title: Ergebnisse
 timeline:
   - date: 2015 - 2017
-    description: ' '
+    description: >-
+      In den Umfragen wurde deutlich, dass Engagement in verschiedenen
+      Organisationsformen stattfin-det und mit unterschiedlichsten Erwartungen
+      verbunden ist. Um genauer zu erfahren, welchen Bedarf die verschiedenen
+      Zielgruppen haben, wurde zunächst persönliche Befragungen und dann eine
+      online-Befragung bestimmter Zielgruppen durchgeführt.
     title: Umfragen und Erhebungen zum Bürgerengagement in Stuttgart
   - date: 23.06.2017
     description: >-
