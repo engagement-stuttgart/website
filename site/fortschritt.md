@@ -36,9 +36,7 @@ timeline:
       stattfindet, sichtbar zu machen und 3. bürgerschaftliches Know-How an
       einem Ort zu bündeln. Die Teilnehmenden der Veranstaltung haben Vorschläge
       gemacht, wie ein „Haus des bürgerschaftlichen Engagements“ heißen könnte. 
-    title: >-
-      Fortschrittstreffen „ENGAGEMENT. STUTTGART – ZENTRAL. DEZENTRAL.
-      DIGITAL.“ 
+    title: 'Fortschrittstreffen „Engagement. Stuttgart – zentral. dezentral. digital“ '
   - date: 01.08.2019
     description: >-
       AG Angebote (Beratung, Qualifizierung, etc.), AG Digitales
