@@ -21,7 +21,11 @@ workingGroups:
   - description: 'CI/CD, Kampagnen, etc.'
     name: ag-öffentlichkeit
     title: Öffentlichkeitsarbeit
-  - description: 'Experimentierort, dezentrale Räume, Tournee der guten Orte, etc.'
+  - description: >-
+      Die AG Räume wird sich mit den Thema Experimentierort für ein Haus des
+      Engagements in Stuttgart-Mitte, einer Tournee durch die Stadtbezirke, und
+      mittelfristig mit dem Thema Haus des Engagements in Stuttgart
+      beschäftigen. 
     name: ag-räume
     title: Räume
 ---
