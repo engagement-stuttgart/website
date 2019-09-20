@@ -52,10 +52,11 @@ timeline:
     title: 'Fortschrittstreffen „Engagement. Stuttgart – zentral. dezentral. digital“ '
   - date: 01.08.2019
     description: >-
-      AG Angebote (Beratung, Qualifizierung, etc.), AG Digitales
-      (Internetplattform, Vermittlungsplattform, etc.), AG Öffentlichkeitsarbeit
-      (CI/CD, Kampagnen, etc.), AG Räume (Experimentierort, dezentrale Räume,
-      Tournee, etc.)
+      Die Arbeitsgruppen AG Angebote (Beratung, Qualifizierung, etc.), AG
+      Digitales (Internetplattform, Vermittlungsplattform, etc.), AG
+      Öffentlichkeitsarbeit (CI/CD, Kampagnen, etc.), AG Räume
+      (Experimentierort, dezentrale Räume, Tournee, etc.) haben ihre Arbeit
+      aufgenommen.
     title: Gründung der Arbeitsgruppen
 ---
 <ProgressPage />
