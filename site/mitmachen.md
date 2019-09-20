@@ -9,17 +9,20 @@ hero:
   subtitle: ' Lassen Sie uns eine gemeinsame BE-Strategie für unsere Stadt entwickeln.'
   title: Mitmachen
 workingGroups:
-  - name: ag-angebote
+  - description: >-
+      Die Arbeitsgruppe Angebote ist thematisch die breiteste: sie diskutiert
+      die Themen Anerkennung, Beratung, Qualifizierung, Vermittlung, etc. und
+      konizipiert neue Angebote für das Engagement in Stuttgart.
+    name: ag-angebote
     title: Angebote
-    description: Anerkennung, Beratung, Qualifizierung, etc.
-  - name: ag-digitales
+  - description: 'Internetplattform, Vermittlungsplattform, etc.'
+    name: ag-digitales
     title: Digitales
-    description: Internetplattform, Vermittlungsplattform, etc.
-  - name: ag-öffentlichkeit
+  - description: 'CI/CD, Kampagnen, etc.'
+    name: ag-öffentlichkeit
     title: Öffentlichkeitsarbeit
-    description: CI/CD, Kampagnen, etc.
-  - name: ag-räume
+  - description: 'Experimentierort, dezentrale Räume, Tournee der guten Orte, etc.'
+    name: ag-räume
     title: Räume
-    description: Experimentierort, dezentrale Räume, Tournee der guten Orte, etc.
 ---
 <ContributePage />
