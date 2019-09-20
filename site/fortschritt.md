@@ -11,6 +11,9 @@ hero:
   subtitle: ' '
   title: Ergebnisse
 timeline:
+  - date: 2015 - 2017
+    description: ' '
+    title: Umfragen und Erhebungen zum Bürgerengagement in Stuttgart
   - date: 23.06.2017
     description: >-
       70 Teilnehmer/-innen aus der Praxis haben in moderierten Workshops
