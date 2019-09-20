@@ -12,7 +12,10 @@ hero:
   title: Ergebnisse
 timeline:
   - date: 23.06.2017
-    description: 70 Teilnehmer/-innen aus der Praxis haben konkrete Vorschläge erarbeitet.
+    description: >-
+      70 Teilnehmer/-innen aus der Praxis haben in moderierten Workshops
+      konkrete Vorschläge zur Förderung des Bürgerschaftlichen Engagements in
+      Stuttgart erarbeitet.
     title: >-
       Fachtagung „Bürgerschaftliches Engagement in der Landeshauptstadt
       Stuttgart – Ermöglichungsstrukturen weiterentwickeln“
